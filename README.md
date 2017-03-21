@@ -1,2 +1,2 @@
-# Aurelia1
-Todo Tutorial for Aurelia
+# Aurelia2
+Contact Manager Tutorial for Aurelia
